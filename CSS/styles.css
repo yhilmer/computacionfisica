@@ -25,3 +25,19 @@ nav a{
     padding: 13px 20px;
     text-decoration: none;
 }
+
+.row {display:flex;
+flex-wrap:wrap;
+}
+
+aside{
+    flex: 30px;
+    background-color: aquamarine;
+    padding: 20px;
+}
+
+section{
+    flex:70%;
+    background-color: khaki;
+    padding: 20px;
+}
