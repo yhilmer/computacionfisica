@@ -22,12 +22,13 @@ nav{
 
 nav a{
     color: white;
-    padding: 13px 20px;
+    padding: 14px 20px;
     text-decoration: none;
 }
 
-.row {display:flex;
-flex-wrap:wrap;
+.columna {
+    display:flex;
+    flex-wrap:wrap;
 }
 
 aside{
@@ -40,4 +41,12 @@ section{
     flex:70%;
     background-color: khaki;
     padding: 20px;
+}
+
+footer
+{
+    padding: 20px;
+    text-align:center;
+    background-color: rgb(117, 117, 116)
+
 }
